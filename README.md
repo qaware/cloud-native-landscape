@@ -1,2 +1,4 @@
 # Cloud Native Landscape
-Cloud Native Landscape with a special emphasis on vital and relevant open source projects for enterprise use.
+The Cloud Native Landscape provides a detailed overview over the most relevant Cloud Native technologies, most of them open source. 
+
+With the Cloud Native universe developing very fast, the Cloud Native Landscapes has to be updated regularily. In this repo you can find all versions of the Cloud Native Landscape from the very beginning (2016) until now.
